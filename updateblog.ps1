@@ -5,7 +5,7 @@ $sourcePath = "C:\Users\morte\Jottacloud\Notater\BLOG\Posts"
 $destinationPath = "C:\Users\morte\Jottacloud\blog\mortecblog\content\posts"
 
 # Set Github repo 
-$myrepo = "https://github.com/N37Sh4rk/sharkblog.git"
+$myrepo = "git@github.com:N37Sh4rk/sharkblog.git"
 
 # Set error handling
 $ErrorActionPreference = "Stop"

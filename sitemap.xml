@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/tags/blog/</loc>
+    <loc>/tags/blogs/</loc>
     <lastmod>2024-12-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/mortec/</loc>
@@ -19,6 +19,14 @@
   </url><url>
     <loc>/</loc>
     <lastmod>2024-12-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/a-new-post/</loc>
+  </url><url>
+    <loc>/posts/ah-blog-post-number-2/</loc>
+  </url><url>
+    <loc>/posts/please-work/</loc>
+  </url><url>
+    <loc>/posts/shit/</loc>
   </url><url>
     <loc>/categories/</loc>
   </url>

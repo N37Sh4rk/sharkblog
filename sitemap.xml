@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/tags/blogs/</loc>
+    <loc>/tags/ideas/</loc>
     <lastmod>2024-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/mortec/</loc>
-    <lastmod>2024-12-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/posts/blog/</loc>
+    <loc>/tags/lessons/</loc>
     <lastmod>2024-12-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/</loc>
+    <lastmod>2024-12-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/quotes/</loc>
     <lastmod>2024-12-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/</loc>
@@ -20,13 +20,11 @@
     <loc>/</loc>
     <lastmod>2024-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/a-new-post/</loc>
+    <loc>/tags/thoughs/</loc>
+    <lastmod>2024-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/ah-blog-post-number-2/</loc>
-  </url><url>
-    <loc>/posts/please-work/</loc>
-  </url><url>
-    <loc>/posts/shit/</loc>
+    <loc>/posts/blog/</loc>
+    <lastmod>2024-12-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
   </url>

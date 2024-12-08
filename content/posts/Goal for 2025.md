@@ -1,3 +1,9 @@
+---
+title: Goals for 2025
+date: 2024-12-08
+draft: false
+---
+
 as 2024 is comming to an end I want to be clear on my goals for 2025
 
 I believe the best way to start a year is to have a crystalclear image or vission of what you want to achieve and maybe more importantly how you want to achieve it

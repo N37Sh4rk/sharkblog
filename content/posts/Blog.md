@@ -18,3 +18,7 @@ tags:
 
 and everything I care about and find facinating
 things im learning and whats going on
+
+# Why is it not working?
+
+!![Image Description](/images/Pasted%20image%2020241208121530.png)

@@ -8,3 +8,6 @@ tags:
 - Lessons
 - Ideas
 ---
+# this is just a test
+
+memento mori

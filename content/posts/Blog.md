@@ -1,24 +1,10 @@
 ---
-title: My Insane Blog Pipeline
+title: Welcome to my Blog
 date: 2024-12-07
 draft: false
 tags:
-- Mortec
-- Blogs
+- Quotes
+- Thoughs
+- Lessons
+- Ideas
 ---
-!![Image Description](/images/Owl-Free-Download-PNG-6155615.png)
-
-* Maskulinitet
-* Self improvement
-* body building
-* health
-* IT, Cybersec, tech, AI
-* Traveling
-* Wisdom
-
-and everything I care about and find facinating
-things im learning and whats going on
-
-# Why is it not working?
-
-!![Image Description](/images/Pasted%20image%2020241208121530.png)

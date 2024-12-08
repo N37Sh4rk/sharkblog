@@ -4,9 +4,9 @@ date: 2024-12-07
 draft: false
 tags:
 - Mortec
-- Blog
+- Blogs
 ---
-
+!![Image Description](/images/Owl-Free-Download-PNG-6155615.png)
 
 * Maskulinitet
 * Self improvement
@@ -18,5 +18,3 @@ tags:
 
 and everything I care about and find facinating
 things im learning and whats going on
-
-![[BLOG/Posts/attachments/th-2882321068.jpg]]

@@ -77,15 +77,12 @@ unless youre reading to change your behavior youre not actually learning
 
 so my books for 2025:
 - Outwitting The Devil by Napoleon Hill
+- Cant Hurt Me by David Goggins
+- Never Finished by David Goggins
 - Mastery by Robert Greene
 - How to win friends and influence people by Dale Carnegie
-- The Power Of Now by  Eckhart Tolle
-- The Way Of The Superior Man by David Deida
-- 12 Rules for Life by Jordan Peterson
-- The Gospel of John
-- Proverbs in the Bible
-- We who wrestle with God by Dr. Jordan B. Peterson
-- Cant Hurt Me by David Goggins
+- Your next five moves by PBD
+- Golden rules by Napoleon Hill
 
 thats 9 books some ive read before, and some I havent
 

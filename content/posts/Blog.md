@@ -8,6 +8,4 @@ tags:
 - Lessons
 - Ideas
 ---
-# this is just a test
-
-memento mori
+!![Image Description](/images/Pasted%20image%2020241210200739.png)
